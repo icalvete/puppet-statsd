@@ -1,4 +1,4 @@
-#puppet-statsd
+# puppet-statsd
 
 Puppet manifest to install and configure etsy statsd 
 
@@ -6,11 +6,11 @@ Puppet manifest to install and configure etsy statsd
 
 See https://github.com/etsy/statsd/
 
-##Requires:
+## Requires:
 
 * [hiera](http://docs.puppetlabs.com/hiera/1/index.html)
 * https://github.com/icalvete/puppet-nodejs
 
-##Authors:
+## Authors:
 
 Israel Calvete Talavera <icalvete@gmail.com>
